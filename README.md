@@ -14,3 +14,4 @@ Game source in a clean format can be found inside [index-source.html](https://gi
 
 The purpose of this project was to find a good balance between small file size and a good code. I didn't want to cut off features for lower amount of bytes. Feel free to contribute to it.
  
+ 
